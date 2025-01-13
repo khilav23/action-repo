@@ -13,7 +13,7 @@ These webhooks send event data to a corresponding Flask application (`webhook-re
 
 The webhook is configured in the repository's settings to send payloads to the following URL:
 
-`https://related-muskox-ace.ngrok-free.app/webhook`
+`https://related-muskox-ace.ngrok-free.app/webhook` (forwarded from a local port using Ngrok)  
 
 ## How to Use (For Testing)
 
