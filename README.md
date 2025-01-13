@@ -29,4 +29,4 @@ The backend application that receives and processes the webhook events is locate
 
 ## Note
 
-This repository is primarily for demonstration/testing purposes.
+This repository is primarily for testing purposes.
