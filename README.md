@@ -7,7 +7,7 @@ This repository is configured to trigger GitHub webhooks for the following event
 -   Merge 
 
 These webhooks send event data to a corresponding Flask application (`webhook-repo`) that processes and stores the data in a local MongoDB database.
-
+ 
 
 ## Webhook Configuration
 
